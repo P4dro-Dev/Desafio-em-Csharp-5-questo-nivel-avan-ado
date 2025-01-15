@@ -6,7 +6,7 @@
 
 | Contribuição
 
-|Licença
+| Licença
 
 Contato
 
