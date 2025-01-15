@@ -4,7 +4,7 @@
  
 ## | Como Executar
 
-## | Contribuição
+## 👥| Contribuição
 
 ## | Licença
 
