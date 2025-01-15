@@ -1,6 +1,6 @@
 ## 📑| Desafio de nível avançado C#
 
-Bem-v projet contém 15 questões de nível difícil e mediano, cada uma com um enunciado comentado e código separado. Esses desafios foram criados para ajudar a aprimorar suas habilidades em C#.
+Bem projet contém 15 questões de nível difícil e mediano, cada uma com um enunciado comentado e código separado. Esses desafios foram criados para ajudar a aprimorar suas habilidades em C#.
 
 📋| Índice
 Sobre o Projeto
