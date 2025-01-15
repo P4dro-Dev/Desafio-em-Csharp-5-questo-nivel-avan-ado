@@ -13,8 +13,7 @@
 🌟| Sobre o Projeto
 Este projeto foi desenvolvido para fornecer uma série de desafios em C# que variam de nível mediano a difícil. Cada questão é acompanhada de um enunciado comentado e um código separado para facilitar a compreensão e a prática. O objetivo é ajudar desenvolvedores a aprimorar suas habilidades de programação em C# através de problemas práticos e desafiadores.
 
-  k-émo menelemento em um 
-
+  k-émo menelemento em um
 Encontrar o maior subarray com soma máxima.
 
 Encontrar o caminho mínimo em um labirinto.
