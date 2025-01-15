@@ -14,7 +14,6 @@
 Este projeto foi desenvolvido para fornecer uma série de desafios em C# que variam de nível mediano a difícil. Cada questão é acompanhada de um enunciado comentado e um código separado para facilitar a compreensão e a prática. O objetivo é ajudar desenvolvedores a aprimorar suas habilidades de programação em C# através de problemas práticos e desafiadores.
 
 
-
 Resolver o problema das N rainhas.
 
 Encontrar o menor caminho em um grafo usando o algoritmo de Dijkstra.
