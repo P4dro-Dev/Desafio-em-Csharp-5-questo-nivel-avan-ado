@@ -15,7 +15,6 @@ Este projeto foi desenvolvido para fornecer uma série de desafios em C# que var
 
 
 Encontrar o maior caminho em um grafo acíclico dirigido (DAG
-
 Nível Mediano
 Verificar se uma string é um palíndromo.
 
