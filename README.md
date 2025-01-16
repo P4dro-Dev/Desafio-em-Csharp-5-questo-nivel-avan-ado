@@ -14,7 +14,6 @@
 Este projeto foi desenvolvido para fornecer uma série de desafios em C# que variam de nível mediano a difícil. Cada questão é acompanhada de um enunciado comentado e um código separado para facilitar a compreensão e a prática. O objetivo é ajudar desenvolvedores a aprimorar suas habilidades de programação em C# através de problemas práticos e desafiadores.
 
 Calcular a soma dos dígitos de 
-
 Calcular o fatorial de um número usando recursão.
 
 Converter um número decimal para binário.
