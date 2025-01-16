@@ -15,7 +15,6 @@ Este projeto foi desenvolvido para fornecer uma série de desafios em C# que var
 
 
 Contar o número de vo
-
 Inverter uma string.
 
 Calcular a soma dos dígitos de um número.
