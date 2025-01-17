@@ -8,7 +8,7 @@
 
 ## 👥| Contribuição
 
- Caso te
+ Caso tenha
 
 ## 📑| Licença
 
