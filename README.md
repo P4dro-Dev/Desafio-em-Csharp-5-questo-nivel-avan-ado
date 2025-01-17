@@ -6,7 +6,7 @@
 
 ## 👥| Contribuição
 
-
+S
 
 ## 📑| Licença
 
