@@ -4,7 +4,7 @@
  
 ## 📋| Como Executar
 
-   
+   yg
 
 ## 👥| Contribuição
 
