@@ -8,7 +8,7 @@
 
 ## 👥| Contribuição
 
- 
+ C
 
 ## 📑| Licença
 
