@@ -8,7 +8,7 @@
 
 ## 👥| Contribuição
 
- Caso tenha interrese em algum em utili
+ Caso tenha interrese em algum em utilizar
 
 ## 📑| Licença
 
