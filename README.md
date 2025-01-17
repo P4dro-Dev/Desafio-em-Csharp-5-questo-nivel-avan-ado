@@ -17,5 +17,5 @@ Este projeto foi desenvolvido para fornecer uma série de desafios em C# que var
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 📞| Contato
-Se você tiver alguma dúvida ou quiser saber mais sobre
+Se você tiver alguma dúvida ou quiser saber mais sobr
 
