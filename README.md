@@ -8,7 +8,7 @@
 
 ## 👥| Contribuição
 
- Ca
+ Caso
 
 ## 📑| Licença
 
