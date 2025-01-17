@@ -8,7 +8,7 @@
 
 ## 👥| Contribuição
 
- Caso tenha interrese em algum em utilizar algum desses códigos
+ Caso tenha interrese em algum em utilizar algum desses códigos 
 
 ## 📑| Licença
 
