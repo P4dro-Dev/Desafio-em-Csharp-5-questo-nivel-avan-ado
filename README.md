@@ -12,7 +12,7 @@
 
 ## 📑| Licença
 
-Este projeto licenciado com a licença meet
+Este projeto licenciado com a licença MIT
   
 ## 📱| Contato
 
