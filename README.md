@@ -8,7 +8,7 @@
 
 ## 👥| Contribuição
 
- Caso tenha interrese em algum em utilizar algum desses códigos para desenvolver projeto, 
+ Caso tenha interrese em algum em utilizar algum desses códigos para desenvolver projeto, sinta
 
 ## 📑| Licença
 
