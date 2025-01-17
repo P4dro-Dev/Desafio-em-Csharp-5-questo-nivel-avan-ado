@@ -18,5 +18,5 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 
 📞| Contato
 Se você tiver alguma dúvida ou quiser saber mais sobre o projeto, entre em contato
-Email:
+Email
 
