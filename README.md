@@ -12,7 +12,7 @@
 
 ## 📑| Licença
 
-Este projeto 
+Este projeto licenciado
   
 ## 📱| Contato
 
