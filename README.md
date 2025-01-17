@@ -12,7 +12,7 @@
 
 ## 📑| Licença
 
-
+Es
   
 ## 📱| Contato
 
