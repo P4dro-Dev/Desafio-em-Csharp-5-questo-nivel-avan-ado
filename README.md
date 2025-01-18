@@ -20,4 +20,4 @@
    E-mail: henrique.pedro@aluno.ifce.edu.br
 
 ## 🌟| Sobre o Proje
-Este projeto foi desenvolvid para fornecer uma série de desafi
+Este projeto foi desenvolvid para fornecer uma série de desaf
