@@ -6,7 +6,6 @@
 ## 📋| Como Executar
 
 
-
    
 
 ## 👥| Contribuição
