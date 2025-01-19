@@ -4,7 +4,7 @@
 
 ## ⌛| Tempo de Conclusão do desafio
  
-  O tempo que levei para realizar esse desafio, foi foi de apro
+  O tempo que levei para realizar esse desafio, foi foi de aproxima
  
 ## 📋| Como Executar
 
