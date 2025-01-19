@@ -4,7 +4,7 @@
 
 ## ⌛| Tempo de Conclusão do desafio
  
-  O tempo que levei para realizar esse desafio, foi f
+  O tempo que levei para realizar esse desafio, foi fo
  
 ## 📋| Como Executar
 
