@@ -19,4 +19,4 @@
 
    E-mail: henrique.pedro@aluno.ifce.edu.br
 
-## 🌟|
+## 🌟
