@@ -4,7 +4,7 @@
 
 ## ⌛| Tempo de Conclusão do desafio
  
-  O tempo levei que para  realizar esse desa
+  O tempo levei que para  realizar esse desaf
  
 ## 📋| Como Executar
 
