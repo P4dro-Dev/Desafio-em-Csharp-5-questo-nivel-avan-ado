@@ -4,7 +4,7 @@
 
 ## ⌛| Tempo de Conclusão do desafio
  
-  O tempo que levei para realizar esse desafio, fo foi de aproximamente 1 hora, e 20 minutos
+  O tempo que levei para realizar esse desafio, f foi de aproximamente 1 hora, e 20 minutos
  
 ## 📋| Como Executar
 
