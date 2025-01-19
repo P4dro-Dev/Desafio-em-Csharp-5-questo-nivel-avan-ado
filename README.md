@@ -4,7 +4,7 @@
 
 ## ⌛| Tempo de Conclusão do desafio
  
-  Oara realizar 
+  O ara realizar 
  
 ## 📋| Como Executar
 
