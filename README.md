@@ -4,7 +4,7 @@
 
 ## ⌛| Tempo de Conclusão do desafio
  
-  O para realizar 
+  O tepara realizar 
  
 ## 📋| Como Executar
 
