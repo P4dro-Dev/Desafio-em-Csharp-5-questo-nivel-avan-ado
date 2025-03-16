@@ -9,7 +9,7 @@
 ## 📋| Como Executar 
 
      
-
+ 
 ## 👥| Contribuição
 
  Caso tenha interrese em algum em utilizar algum desses códigos para desenvolver projeto, sinta-se à vontade para utilizar
