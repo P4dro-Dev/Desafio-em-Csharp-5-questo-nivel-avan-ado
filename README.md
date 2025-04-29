@@ -2,7 +2,7 @@
 
  projeto contém 5 questões de nível difícil e mediano, cada uma com um enunciado comentado e código separado. Esses desafios foram criados para ajudar a aprimorar suas habilidades em C#.
 
-## ⌛| Tempo de Conclusão do desafio
+## ⌛| Tempo de Conclusão do desafio 
  
   O tempo que levei para realizar esse desafio, foi de aproximamente 1 hora, e 20 minutos
  
