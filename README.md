@@ -6,7 +6,7 @@
  
   O tempo que levei para realizar esse desafio, foi de aproximamente 1 hora, e 20 minutos
   
-## 📋| Como Executar    
+## 📋| Como Executar     
   
            
          
