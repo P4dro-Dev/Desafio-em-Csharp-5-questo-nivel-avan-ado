@@ -8,7 +8,7 @@
   
 ## 📋| Como Executar        
                         
-                           
+                            
            
     
 ## 👥| Contribuição  
