@@ -9,7 +9,7 @@
 ## 📋| Como Executar            
                                  
                                                       
-                                                 
+                                                  
                              
 ## 👥| Contribuição           
       
